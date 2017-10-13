@@ -128,9 +128,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MVVMCross\MVVMCross.csproj">
-      <Project>{8e853969-0e11-4ca0-b3ea-f35f602da3f2}</Project>
-      <Name>MVVMCross</Name>
+    <ProjectReference Include="..\MVVMCross\MvxApp.Corre.csproj">
+      <Project>{AFC57A3A-812A-41D2-B06B-AD1017E1DEAC}</Project>
+      <Name>MvxApp.Corre</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

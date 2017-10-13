@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCross.Android", "MVVMCross\MVVMCross.Android\MVVMCross.Android.csproj", "{4875A7E2-E020-4B05-A815-647B0AF5DEB4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvxApp.Android", "MVVMCross\MVVMCross.Android\MvxApp.Android.csproj", "{4875A7E2-E020-4B05-A815-647B0AF5DEB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCross.iOS", "MVVMCross\MVVMCross.iOS\MVVMCross.iOS.csproj", "{5CCE3D7D-67BF-4BB9-98EC-EE4B231D1885}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvxApp.iOS", "MVVMCross\MVVMCross.iOS\MvxApp.iOS.csproj", "{5CCE3D7D-67BF-4BB9-98EC-EE4B231D1885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCross.UWP", "MVVMCross\MVVMCross.UWP\MVVMCross.UWP.csproj", "{FCB97EF0-F455-4B04-87D1-E8D3557BA0D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvxApp.UWP", "MVVMCross\MVVMCross.UWP\MvxApp.UWP.csproj", "{FCB97EF0-F455-4B04-87D1-E8D3557BA0D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCross", "MVVMCross\MVVMCross\MVVMCross.csproj", "{AFC57A3A-812A-41D2-B06B-AD1017E1DEAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvxApp.Corre", "MVVMCross\MVVMCross\MvxApp.Corre.csproj", "{AFC57A3A-812A-41D2-B06B-AD1017E1DEAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

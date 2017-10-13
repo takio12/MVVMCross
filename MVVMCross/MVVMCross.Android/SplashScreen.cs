@@ -7,7 +7,7 @@ namespace MVVMCross.Droid
     [Activity(
         Label = "MVVMCross.Droid"
         , MainLauncher = true
-        , Icon = "@mipmap/icon"
+        , Icon = "@drawable/icon"
         , Theme = "@style/Theme.Splash"
         , NoHistory = true
         , ScreenOrientation = ScreenOrientation.Portrait)]
